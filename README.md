@@ -74,7 +74,7 @@ A list of **useful** keyboard shortcuts for RStudio. Some obscure shortcuts are 
 
 |Description|Windows & Linux|Mac|
 |---|---|---|
-|View diff. between active source document and last committed version|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>D</kbd>|
+|View differences between active source document and last committed version|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>D</kbd>|
 |Commit changes|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>M</kbd>|
 |Stage/Unstage (Git)|<kbd>Space</kbd>|<kbd>Space</kbd>|
 |Stage/Unstage and move to next (Git)|<kbd>Enter</kbd>|<kbd>Return</kbd>|
