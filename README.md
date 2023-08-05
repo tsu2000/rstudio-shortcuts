@@ -9,6 +9,7 @@ A list of **useful** keyboard shortcuts for RStudio. Some obscure shortcuts are 
 
 |Description|Windows & Linux|Mac|
 |---|---|---|
+|Display all keyboard shortcuts|<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>|<kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>|
 |Move cursor to console|<kbd>Ctrl</kbd> + <kbd>2</kbd>|<kbd>Ctrl</kbd> + <kbd>2</kbd>|
 |Clear console|<kbd>Ctrl</kbd> + <kbd>L</kbd>|<kbd>Ctrl</kbd> + <kbd>L</kbd>|
 |Move cursor to start of line|<kbd>Home</kbd>|<kbd>⌘Cmd</kbd> + <kbd>←</kbd>|
@@ -35,6 +36,7 @@ A list of **useful** keyboard shortcuts for RStudio. Some obscure shortcuts are 
 |Select All|<kbd>Ctrl</kbd> + <kbd>A</kbd>|<kbd>⌘Cmd</kbd> + <kbd>A</kbd>|
 |Undo|<kbd>Ctrl</kbd> + <kbd>Z</kbd>|<kbd>⌘Cmd</kbd> + <kbd>Z</kbd>|
 |Redo|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd>|<kbd>⌘Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd>|
+|Jump to Word|<kbd>Ctrl</kbd> + <kbd>←</kbd>/<kbd>→</kbd>|<kbd>Option</kbd> + <kbd>←</kbd>/<kbd>→</kbd>|
 |Jump to Start/End|<kbd>Ctrl</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd>|<kbd>⌘Cmd</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd>| 
 |Delete Line|<kbd>Ctrl</kbd> + <kbd>D</kbd>|<kbd>⌘Cmd</kbd> + <kbd>D</kbd>|
 |Indent|<kbd>Tab</kbd> (At beginning of line)|<kbd>Tab</kbd> (At beginning of line)|
@@ -51,6 +53,13 @@ A list of **useful** keyboard shortcuts for RStudio. Some obscure shortcuts are 
 |Move focus to Help|<kbd>Ctrl</kbd> + <kbd>3</kbd>|
 |Show Files|<kbd>Ctrl</kbd> + <kbd>5</kbd>|
 |Show Plots|<kbd>Ctrl</kbd> + <kbd>6</kbd>|
+|Zoom Source Editor|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>1</kbd>|
+|Zoom Console|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>2</kbd>|
+|Zoom Plots|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>6</kbd>|
+
+|Description|Windows & Linux|Mac|
+|---|---|---|
+|Restore default pane views|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>0</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>0</kbd>|
 
 ### Build
 
@@ -74,7 +83,7 @@ A list of **useful** keyboard shortcuts for RStudio. Some obscure shortcuts are 
 
 |Description|Windows & Linux|Mac|
 |---|---|---|
-|View differences between active source document and last committed version|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>D</kbd>|
+|View difference between active document and last committed version|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>D</kbd>|
 |Commit changes|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>|<kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>M</kbd>|
 |Stage/Unstage (Git)|<kbd>Space</kbd>|<kbd>Space</kbd>|
 |Stage/Unstage and move to next (Git)|<kbd>Enter</kbd>|<kbd>Return</kbd>|
